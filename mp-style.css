@@ -83,8 +83,8 @@
 /* Inner Page Details                         */
 /*--------------------------------------------*/
 :host {
-    --innerPage-bgColor: #657783;
-    --innerPage-textColor: #384249;
+    --innerPage-bgColor: #1b3ff7;
+    --innerPage-textColor: #ffe4d3;
     --innerPage-fontSize: 18px;
     --innerPage-lineHeight: 34px;
     --innerPage-primaryColor: #D6CAA6;
