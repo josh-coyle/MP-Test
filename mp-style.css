@@ -1,5 +1,27 @@
-.mpp-innerpage {
-    font-size: 12px;
-    line-height: 100px;
+:host {
+    --root-text-color: red;
+    --root-font-size: 40px;
+    --root-line-height: 45px;
+    --primary: blue;
+    --secondary: green;
+    --form-field-bgcolor: #f9f9f9;
+    --form-field-border: #b4c5cf;
+    --form-field-border--active: #2196f3;
+    --form-valid: #42bc34;
+    --form-invalid: #dc3545;
+    --form-btn-primary-text: #fff;
+    --form-btn-primary-bgcolor: #4a95ec;
+    --form-btn-primary-hover: #4684ca;
+    --form-btn-primary-active: #4273aa;
+    --form-btn-secondary-text: #384249;
+    --form-btn-secondary-bgcolor: #fff;
+    --form-btn-secondary-hover: #f6f7f9;
+    --form-btn-secondary-active: #ededed;
+    --form-btn-disabled: #657783;
+    --card-bgcolor: #fff;
+    --card-title-color: purple;
+    --card-header-bgcolor: black;
+    --box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.35);
+    --progress-pledged: #1b88b0;
+    --progress-received: #000;
 }
-
